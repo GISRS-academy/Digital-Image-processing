@@ -11,3 +11,9 @@ Objectives:
 Objectives:
 1.	To calculate sigma of n1 to n2
 2.	To calculate factorial of n
+
+**Array and pointer 
+
+Objectives:
+1.	To add function ave_data () for example of array and pointer
+2.	To add function stddev () to calculate standard deviation for example of array and pointer
