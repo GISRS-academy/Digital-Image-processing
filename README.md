@@ -37,3 +37,6 @@ Objective
 Objective
 To enhance nikko-si.tif image
 
+**Handling float/short image
+Objective
+A program to calculate NDVI (floating point) image (nikko-si.tif)
