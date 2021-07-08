@@ -33,4 +33,7 @@ Objective
 1.	Modify the program to receive file name from command line
 2. Modify the programs to calculate basic statistics of specified image
 
+**Basic image processing- contrast enhancement 
+Objective
+To enhance nikko-si.tif image
 
