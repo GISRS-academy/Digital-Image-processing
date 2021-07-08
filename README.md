@@ -27,3 +27,8 @@ Objective
 **Introduction and creating image file 
 1.	To Create tiff and jpeg “image files” using “image operation 1”
 2.	View it in QGIS
+
+**Reading image files 
+Objective
+1.	Modify the program to receive file name from command line
+2. Modify the programs to calculate basic statistics of specified image
