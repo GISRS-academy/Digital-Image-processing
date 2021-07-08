@@ -32,3 +32,5 @@ Objective
 Objective
 1.	Modify the program to receive file name from command line
 2. Modify the programs to calculate basic statistics of specified image
+
+
