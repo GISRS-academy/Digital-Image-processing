@@ -17,3 +17,9 @@ Objectives:
 Objectives:
 1.	To add function ave_data () for example of array and pointer
 2.	To add function stddev () to calculate standard deviation for example of array and pointer
+
+
+**IMAGE HANDLING AND FILE I/O
+Objective
+1.	Make own color pattern using Input and output image handling knowledge 
+2.	Prepare one channel image using Input and output image handling knowledge
