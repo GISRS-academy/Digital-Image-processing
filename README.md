@@ -23,3 +23,7 @@ Objectives:
 Objective
 1.	Make own color pattern using Input and output image handling knowledge 
 2.	Prepare one channel image using Input and output image handling knowledge
+
+**Introduction and creating image file 
+1.	To Create tiff and jpeg “image files” using “image operation 1”
+2.	View it in QGIS
